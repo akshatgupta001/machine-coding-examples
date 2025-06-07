@@ -1,3 +1,6 @@
 [submodule "LoadBalancer"]
 	path = LoadBalancer
 	url = git@github.com:akshatgupta001/load-balancer.git
+[submodule "airline-reservation"]
+	path = airline-reservation
+	url = git@github.com:akshatgupta001/airline-reservation-sys.git
